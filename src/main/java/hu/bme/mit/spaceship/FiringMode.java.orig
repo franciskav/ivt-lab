@@ -1,0 +1,14 @@
+package hu.bme.mit.spaceship;
+
+/**
+* Weapon firing mode enumeration
+*
+<<<<<<< HEAD
+*edit in branch-A
+=======
+* edit aganin in branch-B
+>>>>>>> branch-B
+*/
+public enum FiringMode {
+  SINGLE, ALL
+}
